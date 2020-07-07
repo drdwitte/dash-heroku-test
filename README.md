@@ -4,7 +4,7 @@ For a full tutorial on how to deploy your app, go right here: https://towardsdat
 
 go to folder with all the files in this template (app, requirements, Procfile)
 
-1. heroku create <unique-app-name>
+1. heroku create unique-app-name
 2. git push heroku master
   
  
