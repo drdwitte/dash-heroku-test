@@ -6,5 +6,7 @@ go to folder with all the files in this template (app, requirements, Procfile)
 
 1. heroku create unique-app-name
 2. git push heroku master
-  
+3. heorku ps:scale web=1
+
+your app should be available from: https://unique-app-name.herokuapp.com
  
